@@ -1,0 +1,9 @@
+affiliate-price-tracker/
+├── public/
+│   └── index.html
+├── functions/  (Vercel serverless functions)
+│   └── getProducts.js
+├── script.js
+├── style.css
+├── package.json
+└── README.md
